@@ -1,0 +1,2 @@
+run = ["apl", "-q", "--OFF", "--noCIN", "-f", "main.apl"]
+entrypoint = "main.apl"
